@@ -1,0 +1,10 @@
+.App {
+
+}
+
+.teams {
+    height: 100%;
+    background: rgba(225, 225, 0, .4);
+    display: flex;
+    flex-wrap: wrap;
+}
